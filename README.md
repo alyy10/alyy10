@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Bilal Siddiqui</h1>
-<h3 align="center">Flowing seamlessly through Data Engineering, Analytics, AI/ML, with a Salesforce spark</h3>
+<h3 align="center">Flowing seamlessly through Data Engineering, Analytics, AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyy10&label=Profile%20views&color=0e75b6&style=flat" alt="alyy10" /> </p>
 
