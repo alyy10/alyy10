@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyy10&label=Profile%20views&color=0e75b6&style=flat" alt="alyy10" /> </p>
 
+- I’m currently leading an AI Team at **The Bridge of Hopes**
+
 - 📫 How to reach me **alybilal16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
