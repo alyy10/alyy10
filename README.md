@@ -8,10 +8,7 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Team+Lead+%26+Research+Assistant;at+The+Bridge+of+Hopes" alt="Typing SVG" />
-</div>
-
+- 💼 Currently serving as an *AI Team Lead & Research Assistant* at *The Bridge of Hopes* - an ed-tech AI enabled platform for children with special needs 
 - 🎓 I'm a Final year CS student at FAST NUCES specializing in Data & AI Engineering
 - 📫 How to reach me: **alybilal16@gmail.com**
 
