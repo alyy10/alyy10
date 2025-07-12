@@ -1,4 +1,4 @@
-# I am Ali Bilal Siddiqui
+# Hi , I am Ali 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Team+Lead+%26+Research+Assistant;Flowing+seamlessly+through+Data+Engineering+%2C+Analytics+%2C+AI%2FML;Always+learning+new+technologies" alt="Typing SVG" />
