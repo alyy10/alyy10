@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 💼 Currently serving as an *AI Team Lead & Research Assistant* at *The Bridge of Hopes* - an ed-tech AI enabled platform for children with special needs 
-- 🎓 I'm a Final year CS student at FAST NUCES specializing in Data & AI Engineering
+- 🎓 Final year CS student at FAST NUCES specializing in Data & AI Engineering
 - 📫 How to reach me: **alybilal16@gmail.com**
 
 ---
@@ -29,7 +29,7 @@
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### LLM Stack & AI/ML
+### Machine Learning , Deep Learning , LLMs
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
