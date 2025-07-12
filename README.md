@@ -1,7 +1,7 @@
 # I am Ali Bilal Siddiqui
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Team+Lead+%26+Research+Assistant;Data+Engineering+%7C+Analytics+%7C+AI%2FML;Flowing+seamlessly+with+Salesforce+spark;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Team+Lead+%26+Research+Assistant;Flowing+seamlessly+through+Data+Engineering+%2C+Analytics+%2C+AI%2FML;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 ---
@@ -24,12 +24,20 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Big Data & Analytics
+### Data Engineering & Big Data
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### AI/ML Frameworks
+### LLM Stack & AI/ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-4285F4?style=for-the-badge&logo=database&logoColor=white)
+![Graph DB](https://img.shields.io/badge/Graph_DB-8A2BE2?style=for-the-badge&logo=neo4j&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF4081?style=for-the-badge&logo=retrieval&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -60,24 +68,12 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
 ---
 
 ## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyy10&theme=github-dark" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alyy10&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -93,18 +89,8 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 
 ---
 
-## 💭 Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alyy10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
 <div align="center">
   
+### Show some ❤️ by starring some of the repositories!
+
 </div>
