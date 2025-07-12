@@ -1,4 +1,4 @@
-# I am Ali ,  a Senior year student from FAST NUCES
+# Hi , I am Ali a Senior year student from FAST NUCES
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Another+Data+%26+AI+guy;Building+real+world+stuff" alt="Typing SVG" />
@@ -32,7 +32,7 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### ML/DL & AI
+### LLM Stack & AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,14 +59,28 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+### 📈 Overview Stats
+<img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+
+### 🔥 Streak Stats  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+### 📊 Contribution Stats
+<img src="https://github-contributor-stats.vercel.app/api?username=alyy10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+
+### 💻 Coding Activity
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alyy10&theme=tokyonight&layout=compact" alt="Coding Time" />
+
+### 🏆 Achievement Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alyy10&theme=tokyonight" alt="Profile Summary" />
+
+### 📅 Commit Calendar
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alyy10&repo=github-readme-stats&theme=tokyonight" alt="Commit Calendar" />
+
 </div>
 
 ---
@@ -89,3 +103,9 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 </div>
 
 ---
+
+<div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+
+</div>
