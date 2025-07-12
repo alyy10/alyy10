@@ -62,25 +62,11 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+</div>
 
-### 📈 Overview Stats
-<img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-
-### 🔥 Streak Stats  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-### 📊 Contribution Stats
-<img src="https://github-contributor-stats.vercel.app/api?username=alyy10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
-
-### 💻 Coding Activity
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alyy10&theme=tokyonight&layout=compact" alt="Coding Time" />
-
-### 🏆 Achievement Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alyy10&theme=tokyonight" alt="Profile Summary" />
-
-### 📅 Commit Calendar
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alyy10&repo=github-readme-stats&theme=tokyonight" alt="Commit Calendar" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -102,10 +88,3 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 
 </div>
 
----
-
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
-</div>
