@@ -1,4 +1,4 @@
-# Hi , I am Ali a Senior year student from FAST NUCES
+# I am Ali ,  a Senior year student from FAST NUCES
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Another+Data+%26+AI+guy;Building+real+world+stuff" alt="Typing SVG" />
