@@ -3,7 +3,20 @@
 </div>
 
 ---
-
+<div align="center">
+  <svg width="100%" height="5" viewBox="0 0 100 5" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="2.5" x2="100" y2="2.5" stroke="url(#gradient)" stroke-width="2">
+      <animate attributeName="x2" from="0" to="100" dur="2s" repeatCount="indefinite" />
+    </line>
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color: #36BCF7; stop-opacity: 1" />
+        <stop offset="100%" style="stop-color: #5F0A99; stop-opacity: 1" />
+      </linearGradient>
+    </defs>
+  </svg>
+</div>
+-------
 ## 🚀 About Me
 
 - 💼 Currently serving as an *AI Team Lead & Research Assistant* at *The Bridge of Hopes* - an ed-tech AI enabled platform for children with special needs 
