@@ -1,7 +1,7 @@
-# Hi , I am Ali 
+# Hi , I am Ali a Senior year student from FAST NUCES
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Another+Data+%26+AI+guy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Another+Data+%26+AI+guy;Building+real+world+stuff" alt="Typing SVG" />
 </div>
 
 ---
@@ -32,11 +32,12 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### ML/DL & AI
+### LLM Stack & AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-4285F4?style=for-the-badge&logo=database&logoColor=white)
@@ -89,8 +90,3 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 
 ---
 
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
-</div>
