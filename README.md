@@ -1,4 +1,4 @@
-# Hello Devs 👀, I am Ali Bilal
+# I am Ali Bilal Siddiqui
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Team+Lead+%26+Research+Assistant;Data+Engineering+%7C+Analytics+%7C+AI%2FML;Flowing+seamlessly+with+Salesforce+spark;Always+learning+new+technologies" alt="Typing SVG" />
@@ -13,10 +13,7 @@
 Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce spark ✨
 
 - 🔭 I'm currently working on **AI-powered educational solutions for special needs children**
-- 🌱 I'm currently learning **Advanced MLOps and AI model optimization**
-- 💬 Ask me about **Python, Data Engineering, AI/ML, Langchain**
 - 📫 How to reach me: **alybilal16@gmail.com**
-- ⚡ Fun fact: **I believe in making AI accessible for everyone, especially those who need it most**
 
 ---
 
@@ -56,15 +53,15 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -72,7 +69,7 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=github-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyy10&theme=github-dark" alt="Activity Graph" />
 </div>
 
 ---
@@ -80,7 +77,7 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alyy10&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -105,11 +102,9 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=alyy10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
-
 </div>
