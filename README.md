@@ -62,19 +62,19 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
+### 📊 Stats & Activity Overview
+<img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Statistics" alt="GitHub Stats" />
 
----
+### 📈 Commits Timeline  
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alyy10&theme=tokyonight&layout=compact&custom_title=Commits%20(UTC%20+0:00)" alt="Commits Graph" />
 
-## 📈 Activity Graph
+### 🎯 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alyy10&theme=github-compact&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Activity" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyy10&theme=github-dark" alt="Activity Graph" />
+### 🔥 Streak Stats  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
 </div>
 
 ---
