@@ -1,4 +1,4 @@
-# Hi , I am Ali a Senior year student from FAST NUCES
+# I am Ali ,  a Senior year student from FAST NUCES
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Another+Data+%26+AI+guy;Building+real+world+stuff" alt="Typing SVG" />
@@ -32,7 +32,7 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### LLM Stack & AI/ML
+### ML/DL & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,22 +59,22 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
-### 📊 Stats & Activity Overview
-<img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Statistics" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
 
-### 📈 Commits Timeline  
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alyy10&theme=tokyonight&layout=compact&custom_title=Commits%20(UTC%20+0:00)" alt="Commits Graph" />
+---
 
-### 🎯 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alyy10&theme=github-compact&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Activity" />
+## 📈 Activity Graph
 
-### 🔥 Streak Stats  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyy10&theme=github-dark" alt="Activity Graph" />
 </div>
 
 ---
@@ -88,3 +88,4 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 
 </div>
 
+---
