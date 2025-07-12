@@ -10,7 +10,8 @@
 - 🎓 Final year CS student at FAST NUCES specializing in Data & AI Engineering
 - 📫 How to reach me: **alybilal16@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🛠️ Languages and Tools
 
@@ -51,7 +52,8 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 📊 GitHub Statistics
 
@@ -66,7 +68,8 @@
 ### 🏆 Achievement Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alyy10&theme=tokyonight" alt="Profile Summary" />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 📈 Activity Graph
 
@@ -74,7 +77,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyy10&theme=github-dark" alt="Activity Graph" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🌐 Connect with me
 
@@ -85,4 +89,5 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
