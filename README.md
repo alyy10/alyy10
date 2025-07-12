@@ -1,4 +1,3 @@
-# Hi, I’m Ali Bilal 👋 , A Senior Year Student at FAST NUCES
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Data+%26+AI+Engineer;with+Analytics+%26+LLMs+Spark" alt="Typing SVG" />
@@ -13,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Team+Lead+%26+Research+Assistant;at+The+Bridge+of+Hopes" alt="Typing SVG" />
 </div>
 
-- 🔭 I'm currently working on **AI-powered educational solutions for special needs children**
+- 🎓 I'm a Final year CS student at FAST NUCES specializing in Data & AI Engineering
 - 📫 How to reach me: **alybilal16@gmail.com**
 
 ---
