@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Data+%26+AI+Engineer;with+Analytics+%26+LLMs+Spark" alt="Typing SVG" />
 </div>
 
+
 ---
 
 ## 🚀 About Me
@@ -10,7 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Team+Lead+%26+Research+Assistant;at+The+Bridge+of+Hopes" alt="Typing SVG" />
 </div>
 
-Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce spark ✨
 
 - 🔭 I'm currently working on **AI-powered educational solutions for special needs children**
 - 📫 How to reach me: **alybilal16@gmail.com**
@@ -20,8 +20,6 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python;%20SQL;%20C;%20C++" alt="Typing SVG" />
-</div>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -57,27 +55,22 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ### CRM
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-</div>
 
----
+### 📈 Overview Stats
+<img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 
-### 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
+### 🔥 Streak Stats  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 ### 🏆 Achievement Summary
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alyy10&theme=tokyonight" alt="Profile Summary" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alyy10&theme=tokyonight" alt="Profile Summary" />
 
 ---
 
@@ -92,10 +85,10 @@ Flowing seamlessly through Data Engineering, Analytics, AI/ML with a Salesforce 
 ## 🌐 Connect with me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Reach+out+to+me;through+Email+or+LinkedIn" alt="Typing SVG" />
-</div>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alybilal16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-bilal-bb45462a1/)
+
+</div>
 
 ---
