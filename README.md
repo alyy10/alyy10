@@ -39,7 +39,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![spaCy](https://img.shields.io/badge/spaCy-2E8B57?style=for-the-badge&logo=spacy&logoColor=white) 
-![NLTK](https://img.shields.io/badge/NTLK-FF6347?style=for-the-badge&logo=nltk&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-FF6347?style=for-the-badge&logo=nltk&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Graph DB](https://img.shields.io/badge/Graph_DB-8A2BE2?style=for-the-badge&logo=neo4j&logoColor=white)
 
