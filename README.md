@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-- 💼 Currently serving as an *AI Team Lead & Research Assistant* at *The Bridge of Hopes* - an ed-tech AI enabled platform for children with special needs 
+- 💼 Currently serving as *Data Engineering Intern* at *Buildables* & *Research Assistant* at *The Bridge of Hopes*. 
 - 🎓 Final year CS student at FAST NUCES specializing in Data & AI Engineering
-- 📫 How to reach me: **alybilal16@gmail.com**
+- 📫 How to reach me: **alybilal16@gmail.com** or **https://www.linkedin.com/in/ali-bilal-bb45462a1/**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -45,7 +45,7 @@
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### DevOps & Tools
+### MLOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -61,8 +61,6 @@
 
 <div align="center">
 
-### 📈 Overview Stats
-<img src="https://github-readme-stats.vercel.app/api?username=alyy10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 
 ### 🔥 Streak Stats  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
