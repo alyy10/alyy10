@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 💼 Currently serving as *Data Engineering Intern* at *Buildables* & *Research Assistant* at *The Bridge of Hopes*. 
+- 💼 Currently serving as *Data Engineering Intern* at *Buildables* & * Lead AI Research Assistant* at *The Bridge of Hopes*. 
 - 🎓 Final year CS student at FAST NUCES specializing in Data & AI Engineering
 - 📫 How to reach me: **alybilal16@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/ali-bilal-bb45462a1/)
 
