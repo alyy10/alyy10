@@ -8,7 +8,7 @@
 
 - 💼 Currently serving as *Data & OpsEx Intern* at *AliBaba Group (Daraz)* & *Lead AI Research Assistant* at *The Bridge of Hopes*. 
 - 🎓 Final year CS student at FAST NUCES specializing in Data & AI Engineering
-- 📫 How to reach me: **alybilal16@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/ali-bilal-bb45462a1/)
+- 📫 Reach out to me: **alybilal16@gmail.com** / [**LinkedIn**](https://www.linkedin.com/in/ali-bilal-bb45462a1/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
