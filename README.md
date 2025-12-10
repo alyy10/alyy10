@@ -25,9 +25,11 @@
 
 ### Data Engineering & Big Data
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white).
-
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Snowpipe](https://img.shields.io/badge/Snowpipe-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Snowpipe Streaming](https://img.shields.io/badge/Snowpipe_Streaming-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Dynamic Tables](https://img.shields.io/badge/Dynamic_Tables-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 ### Machine Learning , Deep Learning , LLMs
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
