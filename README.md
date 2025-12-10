@@ -27,8 +27,6 @@
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white).
-![Databricks](https://img.shields.io/badge/Databricks-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-
 
 
 ### Machine Learning , Deep Learning , LLMs
@@ -41,6 +39,9 @@
 ![spaCy](https://img.shields.io/badge/spaCy-2E8B57?style=for-the-badge&logo=spacy&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Graph DB](https://img.shields.io/badge/Graph_DB-8A2BE2?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### Visualization
+![Sigma](https://img.shields.io/badge/Sigma-00C7B7?style=for-the-badge&logo=sigma&logoColor=white)
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
