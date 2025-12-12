@@ -28,6 +28,7 @@
 ![Snowpipe Streaming](https://img.shields.io/badge/Snowpipe_Streaming-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Dynamic Tables](https://img.shields.io/badge/Dynamic_Tables-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### Machine Learning , Deep Learning , LLMs
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
