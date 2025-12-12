@@ -24,13 +24,6 @@
 ### Orchestration
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-### Cloud Based Datawarehousing
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### Data Transformation & Modeling
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Dynamic Tables](https://img.shields.io/badge/Dynamic_Tables-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
 ### Data Ingestion
 ![Snowpipe](https://img.shields.io/badge/Snowpipe-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Snowpipe Streaming](https://img.shields.io/badge/Snowpipe_Streaming-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
@@ -38,9 +31,15 @@
 ### Big Data Processing
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 
+### Cloud Based Datawarehousing
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### Data Transformation & Modeling
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Dynamic Tables](https://img.shields.io/badge/Dynamic_Tables-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
 ### Visualization
 ![Sigma](https://img.shields.io/badge/Sigma-00C7B7?style=for-the-badge&logo=sigma&logoColor=white)
-
 ### Machine Learning , Deep Learning , LLMs
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
