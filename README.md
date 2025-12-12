@@ -24,7 +24,7 @@
 ### Orchestration
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-### Cloud Based Datawarehouse
+### Cloud Based Datawarehousing
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### Data Transformation & Modeling
