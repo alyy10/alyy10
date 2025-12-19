@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 💼 Currently serving as *Data Engineering & AI Data Cloud Associate* at *Aidapt* & *Data & OpsEx Intern* at *AliBaba Group (Daraz)* 
+- 💼 Currently working as *Data Engineering & AI Data Cloud Associate* at *Aidapt* & *Data & OpsEx Intern* at *AliBaba Group (Daraz)* 
 - 🎓 Final year CS student at FAST NUCES specializing in Data & AI Engineering
 - 📫 Reach out to me: **alybilal16@gmail.com** / [**LinkedIn**](https://www.linkedin.com/in/ali-bilal-bb45462a1/)
 
