@@ -19,26 +19,6 @@ alybilal16@gmail.com ← reach out for more :)
 
 ---
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-
-### 🔥 Streak Stats  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alyy10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-### 🏆 Achievement Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alyy10&theme=tokyonight" alt="Profile Summary" />
-
-
-<div align="center">
-  
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 ## 🌐 Connect with me
 
 <div align="center">
