@@ -4,9 +4,9 @@
 </div>
 
 # hi, i'm Ali!
-computer science student @ **FAST NUCES**<br>
 currently @ **Aidapt** as Data Engineering Associate<br>
 previously @ **AliBaba Group** as Data & OpsEX Intern<br>
+computer science student @ **FAST NUCES**<br>
 alybilal16@gmail.com ← reach out for more :)
 
 ---
