@@ -19,14 +19,11 @@ alybilal16@gmail.com ← reach out for more :)
 **ml / ai** — PyTorch, TensorFlow, scikit-learn, LangChain, FastAPI  
 
 ---
-### Certifications
+### certifications
 
-**Snowflake** — Python,SnowPro Core ( COF-CO2) , Snowpro Associate : Platform ( SOL-CO1 )<br>
+**snowflake** — snowpro core (COF-C02), snowpro associate: platform (SOL-C01)
+
 ---
-
-
-
-
 ## Connect with me
 
 <div align="center">
