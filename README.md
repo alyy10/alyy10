@@ -17,7 +17,7 @@ alybilal16@gmail.com ← reach out for more :)
 
 ### what i work with
 
-**data engineering** — Python, SQL, Snowflake, Sigma, dbt, Apache Spark, Airflow, AWS
+**data engineering** — Python, SQL, Snowflake, Sigma, dbt, Apache Spark, Airflow, AWS <br>
 **ml / ai** — PyTorch, TensorFlow, scikit-learn, LangChain, FastAPI  
 
 ---
