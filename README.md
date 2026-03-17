@@ -4,6 +4,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# hi, i'm Ali!
+computer science student @ ```FAST NUCES```<br>
+currently @ ```Aidapt``` as Data Engineering Associate<br>
+previously @ ```AliBaba Group``` as Data & OpsEX Intern<br>
+[alybilal16@gmail.com](https://www.linkedin.com/in/ali-bilal-bb45462a1/) ← reach out for more :)
+
+
 ## 🚀 About Me
 
 - 💼 Currently working as *Data Engineering & AI Data Cloud Associate* at *Aidapt* & *Data & OpsEx Intern* at *AliBaba Group (Daraz)* 
