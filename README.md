@@ -17,59 +17,11 @@ alybilal16@gmail.com ← reach out for more :)
 
 ### what i work with
 
-**data engineering** — Snowflake, dbt, Apache Spark, Airflow, Snowpipe, AWS  
+**data engineering** — Python, SQL, Snowflake, Sigma, dbt, Apache Spark, Airflow, AWS
 **ml / ai** — PyTorch, TensorFlow, scikit-learn, LangChain, FastAPI  
-**languages** — Python, SQL
 
 ---
 
-
-## 🛠️ Languages and Tools
-
-<div align="center">
-
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Orchestration
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-
-### Data Ingestion
-![Snowpipe](https://img.shields.io/badge/Snowpipe-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Snowpipe Streaming](https://img.shields.io/badge/Snowpipe_Streaming-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### Big Data Processing
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-
-### Cloud Based Datawarehousing
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### Data Transformation & Modeling
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Dynamic Tables](https://img.shields.io/badge/Dynamic_Tables-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### Visualization
-![Sigma](https://img.shields.io/badge/Sigma-00C7B7?style=for-the-badge&logo=sigma&logoColor=white)
-### Machine Learning , Deep Learning , LLMs
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Graph DB](https://img.shields.io/badge/Graph_DB-8A2BE2?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### MLOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### CRM
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
 </div>
 
