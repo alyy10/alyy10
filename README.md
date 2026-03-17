@@ -10,9 +10,6 @@ currently @ ```Aidapt``` as Data Engineering Associate<br>
 previously @ ```AliBaba Group``` as Data & OpsEX Intern<br>
 alybilal16@gmail.com ← reach out for more :)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 ---
 
 ### what i work with
@@ -21,11 +18,6 @@ alybilal16@gmail.com ← reach out for more :)
 **ml / ai** — PyTorch, TensorFlow, scikit-learn, LangChain, FastAPI  
 
 ---
-
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 📊 GitHub Statistics
