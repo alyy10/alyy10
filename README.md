@@ -21,8 +21,7 @@ alybilal16@gmail.com ← reach out for more :)
 ---
 ### Certifications
 
-**Snowflake** — SnowPro Core ( COF-CO2) , SnowPro Associate : Platform Certification ( SOL-C01 )
- <br>
+**Snowflake** — Python,SnowPro Core ( COF-CO2) , Snowpro Associate : Platform ( SOL-CO1 )<br>
 ---
 
 
