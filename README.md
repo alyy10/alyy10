@@ -13,7 +13,7 @@ alybilal16@gmail.com ← reach out for more :)
 
 ### what i work with
 
-**data engineering** — Python, SQL, Snowflake, Sigma, dbt, Apache Spark, Airflow, AWS <br>
+**data engineering** — Python, SQL, Snowflake, dbt, Airflow, Sigma, AWS <br>
   
 ---
 ### certifications
