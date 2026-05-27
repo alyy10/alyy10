@@ -4,7 +4,7 @@
 </div>
 
 # hi, i'm Ali!
-currently @ **Aidapt** as Data Engineering Associate<br>
+currently @ **Aidapt** as Data Engineer<br>
 previously @ **AliBaba** as Data & OpsEx Intern<br>
 final year computer science student @ **FAST NUCES**<br>
 alybilal16@gmail.com ← reach out for more :)
@@ -13,7 +13,7 @@ alybilal16@gmail.com ← reach out for more :)
 
 ### what i work with
 
-**data engineering** — Python, SQL, Snowflake, dbt, Airflow, Sigma, AWS <br>
+**data engineering** — Python, SQL, Snowflake, dbt, Airflow, duckdb, AWS <br>
   
 ---
 ### certifications
