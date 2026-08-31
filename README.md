@@ -19,6 +19,7 @@ alybilal16@gmail.com ← reach out for more :)
 ### certifications
 
 **snowflake** — snowpro core (COF-C02), snowpro associate: platform (SOL-C01)
+**microsoft** — Fabric Data Engineer Associate ( DP-700 )
 
 ---
 ## Connect with me
