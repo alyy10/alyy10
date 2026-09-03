@@ -19,8 +19,7 @@ alybilal16@gmail.com ← reach out for more :)
 ### certifications
 
 **snowflake** — snowpro core (COF-C02), snowpro associate: platform (SOL-C01) <br> 
-**microsoft** — fabric data engineer associate ( DP-700 ) <br>
-**anthropic** — claude certified architect foundations ( CCAR-F )
+**microsoft** — fabric data engineer associate ( DP-700 ) 
 ---
 ## Connect with me
 
