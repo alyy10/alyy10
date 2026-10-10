@@ -7,7 +7,7 @@
 currently @ **Motive** as Analytics Engineer<br>
 previously @ **Aidapt** as Data Engineer & **AliBaba** as Data & OpsEx Intern<br>
 computer science graduate from **FAST NUCES**<br>
-alybilal16@gmail.com ← reach out for more  :)
+alybilal16@gmail.com ← reach out for more
 
 ---
 
